@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PhoneKeypadProject\bin\Debug\net9.0\PhoneKeypadProject.exe
+C:\Users\User\Desktop\PhoneKeypadProject\bin\Debug\net9.0\PhoneKeypadProject.deps.json
+C:\Users\User\Desktop\PhoneKeypadProject\bin\Debug\net9.0\PhoneKeypadProject.runtimeconfig.json
+C:\Users\User\Desktop\PhoneKeypadProject\bin\Debug\net9.0\PhoneKeypadProject.dll
+C:\Users\User\Desktop\PhoneKeypadProject\bin\Debug\net9.0\PhoneKeypadProject.pdb
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.AssemblyInfo.cs
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.dll
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\refint\PhoneKeypadProject.dll
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.pdb
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\PhoneKeypadProject.genruntimeconfig.cache
+C:\Users\User\Desktop\PhoneKeypadProject\obj\Debug\net9.0\ref\PhoneKeypadProject.dll
